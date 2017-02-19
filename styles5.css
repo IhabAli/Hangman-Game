@@ -64,7 +64,7 @@ $base-color:$green ;
 
 body {
 background-image: url(hangs.gif);
-  background: #005A31;
+  background: #ffd194;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   color:$white;
   height:100%;
